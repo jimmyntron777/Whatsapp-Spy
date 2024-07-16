@@ -1,11 +1,4 @@
-![GitHub stars](https://img.shields.io/github/stars/wellrodrig/Whatsapp-Spy?style=social)   ![GitHub forks](https://img.shields.io/github/forks/wellrodrig/Whatsapp-Spy?style=social)
-![image](https://github.com/user-attachments/assets/59569a23-1fef-4cdb-8528-01ed26c9e187)   ![GitHub](https://img.shields.io/github/license/wellrodrig/Whatsapp-Spy)
-![image](https://github.com/user-attachments/assets/8141fbb6-da4b-4d09-836a-8c069ee5726e)   ![GitHub All Releases](https://img.shields.io/github/downloads/wellrodrig/Whatsapp-Spy/total)
-![image](https://github.com/user-attachments/assets/0b643cac-533b-44ad-945a-efff76bb723d)   ![GitHub issues](https://img.shields.io/github/issues/wellrodrig/Whatsapp-Spy)
-![image](https://github.com/user-attachments/assets/4f0e3331-1949-4287-ba3d-d99030e029cc)  
-
-
-
+![GitHub Repo stars](https://img.shields.io/github/stars/wellrodrig/Whatsapp-Spy)   ![GitHub forks](https://img.shields.io/github/forks/wellrodrig/Whatsapp-Spy)   ![GitHub followers](https://img.shields.io/github/followers/wellrodrig)  
 
 
 
