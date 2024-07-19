@@ -82,5 +82,6 @@ Depending on how this goes, I'll be implementing some features, which I'll discu
      * The code needs refactoring because some blocks are confusing and hard to understand. Refactoring will help eliminate inconsistencies and redundancies, making the code more readable, maintainable, and efficient.
 - [ ] 4. Screenshot feature
     * I will attempt to implement a functionality that takes a screenshot of the app's home page occasionally when the user opens the app, using _almost_ only accessibility services.
-- [ ] 5. Lower the amount of logs generated.
-    * Currently, whenever the user opens WhatsApp, Instagram, or Messenger, the app captures all visible text on the screen and sends it to either Discord or Telegram. Additionally, a new log is generated every time the user navigates back to the home page, clicks on a chat, views statuses, or accesses calls. This process needs to be optimized to reduce the volume of logs and enhance readability.
+- [x] 5. Lower the amount of logs generated.
+    * ~~Currently, whenever the user opens WhatsApp, Instagram, or Messenger, the app captures all visible text on the screen and sends it to either Discord or Telegram. Additionally, a new log is generated every time the user navigates back to the home page, clicks on a chat, views statuses, or accesses calls. This process needs to be optimized to reduce the volume of logs and enhance readability.~~
+    * Done. The app now filters out duplicate logs within a 10-minute timeframe. A confirmation message is displayed, and the processed data is retained for this duration before being erased.
