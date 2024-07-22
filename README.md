@@ -50,6 +50,9 @@ This open-source project is intended for educational and research purposes only.
 
 If everything went ok, you should receive on discord or telegram chat a message containing some data of the cellphone that the app was installed on. 
 
+<img src="/../main/images/Enabling%20Acessibility%20Service.gif" alt="Image of a whatsapp chat" width="430">
+
+
 ## Images
 * Exemple of a whatsapp chat ↓
   
